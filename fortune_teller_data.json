@@ -183,95 +183,23 @@
     {
       "question": "Are you a Valorant fan?",
       "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
+        "Dance like a potato",
+        "Skibidi shuffle",
+        "Gyatt stomp",
+        "NPC sway"
       ]
     },
     {
       "question": "How much rizz do you think you have?",
       "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
       ]
     },
     {
       "question": "Are you a Valorant fan?",
-      "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
-      ]
-    },
-    {
-      "question": "How\u2019s yo favorite way to flex?",
-      "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite sound effect?",
-      "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite type of chaos?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite type of content?",
-      "options": [
-        "I eat air",
-        "I snack on chaos",
-        "I drink WiFi",
-        "I munch on memes"
-      ]
-    },
-    {
-      "question": "Why\u2019s yo favorite type of content?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite sound effect?",
-      "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
-      ]
-    },
-    {
-      "question": "Why animal do you relate to most?",
-      "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
-      ]
-    },
-    {
-      "question": "Why\u2019s yo dream vacation?",
       "options": [
         "Dance like a potato",
         "Skibidi shuffle",
@@ -280,25 +208,7 @@
       ]
     },
     {
-      "question": "Why\u2019s yo favorite type of chaos?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo reaction to being called 'cringe'?",
-      "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite snack during a gaming session?",
+      "question": "How\u2019s yo favorite way to flex?",
       "options": [
         "Join the cameramen",
         "Flush myself",
@@ -307,7 +217,16 @@
       ]
     },
     {
-      "question": "How do you do when someone says 'You have no rizz'?",
+      "question": "Which\u2019s yo favorite sound effect?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite type of chaos?",
       "options": [
         "Respect the drip",
         "Laugh and cry",
@@ -316,12 +235,93 @@
       ]
     },
     {
+      "question": "Which\u2019s yo favorite type of content?",
+      "options": [
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo favorite type of content?",
+      "options": [
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite sound effect?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "Why animal do you relate to most?",
+      "options": [
+        "Scroll fast",
+        "Screenshot and roast",
+        "Comment 'L'",
+        "Duet with cringe"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo dream vacation?",
+      "options": [
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo favorite type of chaos?",
+      "options": [
+        "TikTok therapist",
+        "Fortnite philosopher",
+        "Meme dealer",
+        "Discord mod"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo reaction to being called 'cringe'?",
+      "options": [
+        "Dance like a potato",
+        "Skibidi shuffle",
+        "Gyatt stomp",
+        "NPC sway"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite snack during a gaming session?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "How do you do when someone says 'You have no rizz'?",
+      "options": [
+        "I say 'yo'",
+        "I Skibidi bop",
+        "I NPC wave",
+        "I emoji spam"
+      ]
+    },
+    {
       "question": "Which\u2019s yo dream job?",
       "options": [
-        "Capybara energy",
-        "Llama drama",
-        "Pigeon vibes",
-        "Goose rage"
+        "Scroll fast",
+        "Screenshot and roast",
+        "Comment 'L'",
+        "Duet with cringe"
       ]
     },
     {
@@ -336,10 +336,10 @@
     {
       "question": "Why\u2019s yo favorite insult?",
       "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
+        "Rizz up a ghost",
+        "Fight a duck",
+        "Join the NPC army",
+        "Speak in emojis"
       ]
     },
     {
@@ -354,6 +354,33 @@
     {
       "question": "How\u2019s yo favorite way to say hello?",
       "options": [
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite insult?",
+      "options": [
+        "I rizz in silence",
+        "My rizz is loud",
+        "No rizz but vibes",
+        "Certified Rizzologist"
+      ]
+    },
+    {
+      "question": "How\u2019s yo reaction to being called 'cringe'?",
+      "options": [
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo favorite NPC activity?",
+      "options": [
         "Skibidi yes",
         "NPC moment",
         "Gyatt detected",
@@ -361,7 +388,52 @@
       ]
     },
     {
-      "question": "How\u2019s yo favorite insult?",
+      "question": "How would you do if you woke up as a Skibidi Toilet?",
+      "options": [
+        "Join the cameramen",
+        "Flush myself",
+        "Start a TikTok",
+        "Accept destiny"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo favorite way to flex?",
+      "options": [
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
+      ]
+    },
+    {
+      "question": "How much rizz do you think you have?",
+      "options": [
+        "I say 'yo'",
+        "I Skibidi bop",
+        "I NPC wave",
+        "I emoji spam"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite type of chaos?",
+      "options": [
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite way to say hello?",
+      "options": [
+        "Join the cameramen",
+        "Flush myself",
+        "Start a TikTok",
+        "Accept destiny"
+      ]
+    },
+    {
+      "question": "How\u2019s yo dream job?",
       "options": [
         "Capybara energy",
         "Llama drama",
@@ -370,16 +442,34 @@
       ]
     },
     {
-      "question": "How\u2019s yo reaction to being called 'cringe'?",
+      "question": "Why\u2019s yo reaction to being called 'cringe'?",
       "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
+        "Capybara energy",
+        "Llama drama",
+        "Pigeon vibes",
+        "Goose rage"
       ]
     },
     {
-      "question": "Why\u2019s yo favorite NPC activity?",
+      "question": "Which\u2019s yo favorite way to flex?",
+      "options": [
+        "Rizz up a ghost",
+        "Fight a duck",
+        "Join the NPC army",
+        "Speak in emojis"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite NPC activity?",
+      "options": [
+        "I say 'yo'",
+        "I Skibidi bop",
+        "I NPC wave",
+        "I emoji spam"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo reaction to cringe TikToks?",
       "options": [
         "Dance like a potato",
         "Skibidi shuffle",
@@ -388,129 +478,39 @@
       ]
     },
     {
-      "question": "How would you do if you woke up as a Skibidi Toilet?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Why\u2019s yo favorite way to flex?",
-      "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
-      ]
-    },
-    {
-      "question": "How much rizz do you think you have?",
-      "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
-      ]
-    },
-    {
-      "question": "How\u2019s yo favorite type of chaos?",
-      "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
-      ]
-    },
-    {
-      "question": "How\u2019s yo favorite way to say hello?",
+      "question": "How\u2019s yo favorite type of content?",
       "options": [
         "I eat air",
         "I snack on chaos",
         "I drink WiFi",
         "I munch on memes"
-      ]
-    },
-    {
-      "question": "How\u2019s yo dream job?",
-      "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
-      ]
-    },
-    {
-      "question": "Why\u2019s yo reaction to being called 'cringe'?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite way to flex?",
-      "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite NPC activity?",
-      "options": [
-        "Capybara energy",
-        "Llama drama",
-        "Pigeon vibes",
-        "Goose rage"
-      ]
-    },
-    {
-      "question": "Why\u2019s yo reaction to cringe TikToks?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "How\u2019s yo favorite type of content?",
-      "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
       ]
     },
     {
       "question": "Are you a Valorant fan?",
       "options": [
-        "Capybara energy",
-        "Llama drama",
-        "Pigeon vibes",
-        "Goose rage"
+        "Dance like a potato",
+        "Skibidi shuffle",
+        "Gyatt stomp",
+        "NPC sway"
       ]
     },
     {
       "question": "Why\u2019s yo favorite insult?",
       "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
+        "TikTok therapist",
+        "Fortnite philosopher",
+        "Meme dealer",
+        "Discord mod"
       ]
     },
     {
       "question": "Why\u2019s yo favorite type of chaos?",
       "options": [
-        "TikTok therapist",
-        "Fortnite philosopher",
-        "Meme dealer",
-        "Discord mod"
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
       ]
     },
     {
@@ -525,86 +525,14 @@
     {
       "question": "How\u2019s yo favorite type of chaos?",
       "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
+        "I say 'yo'",
+        "I Skibidi bop",
+        "I NPC wave",
+        "I emoji spam"
       ]
     },
     {
       "question": "Why\u2019s yo favorite NPC activity?",
-      "options": [
-        "TikTok therapist",
-        "Fortnite philosopher",
-        "Meme dealer",
-        "Discord mod"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite way to say hello?",
-      "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
-      ]
-    },
-    {
-      "question": "Why animal do you relate to most?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "How\u2019s yo dream vacation?",
-      "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
-      ]
-    },
-    {
-      "question": "Which would you do if you woke up as a Skibidi Toilet?",
-      "options": [
-        "I say 'yo'",
-        "I Skibidi bop",
-        "I NPC wave",
-        "I emoji spam"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo reaction when someone says 'Sigma grindset'?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "How\u2019s yo reaction to being called 'cringe'?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite sound effect?",
-      "options": [
-        "I say 'yo'",
-        "I Skibidi bop",
-        "I NPC wave",
-        "I emoji spam"
-      ]
-    },
-    {
-      "question": "How\u2019s yo go-to dance move?",
       "options": [
         "Join the cameramen",
         "Flush myself",
@@ -613,16 +541,25 @@
       ]
     },
     {
-      "question": "Why\u2019s yo favorite sound effect?",
+      "question": "Which\u2019s yo favorite way to say hello?",
       "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
+        "Join the cameramen",
+        "Flush myself",
+        "Start a TikTok",
+        "Accept destiny"
       ]
     },
     {
-      "question": "Why do you do when someone says 'You have no rizz'?",
+      "question": "Why animal do you relate to most?",
+      "options": [
+        "Join the cameramen",
+        "Flush myself",
+        "Start a TikTok",
+        "Accept destiny"
+      ]
+    },
+    {
+      "question": "How\u2019s yo dream vacation?",
       "options": [
         "I rizz in silence",
         "My rizz is loud",
@@ -631,25 +568,34 @@
       ]
     },
     {
-      "question": "How\u2019s yo favorite insult?",
+      "question": "Which would you do if you woke up as a Skibidi Toilet?",
       "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
+        "Capybara energy",
+        "Llama drama",
+        "Pigeon vibes",
+        "Goose rage"
       ]
     },
     {
-      "question": "How\u2019s yo favorite way to flex?",
+      "question": "Which\u2019s yo reaction when someone says 'Sigma grindset'?",
       "options": [
-        "Skibidi yes",
-        "NPC moment",
-        "Gyatt detected",
-        "Sigma alert"
+        "Join the cameramen",
+        "Flush myself",
+        "Start a TikTok",
+        "Accept destiny"
       ]
     },
     {
-      "question": "How\u2019s yo reaction to cringe TikToks?",
+      "question": "How\u2019s yo reaction to being called 'cringe'?",
+      "options": [
+        "Rizz up a ghost",
+        "Fight a duck",
+        "Join the NPC army",
+        "Speak in emojis"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite sound effect?",
       "options": [
         "I eat air",
         "I snack on chaos",
@@ -658,7 +604,52 @@
       ]
     },
     {
-      "question": "Which\u2019s yo favorite way to flex?",
+      "question": "How\u2019s yo go-to dance move?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "Why\u2019s yo favorite sound effect?",
+      "options": [
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
+      ]
+    },
+    {
+      "question": "Why do you do when someone says 'You have no rizz'?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite insult?",
+      "options": [
+        "Skibidi yes",
+        "NPC moment",
+        "Gyatt detected",
+        "Sigma alert"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite way to flex?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
+      "question": "How\u2019s yo reaction to cringe TikToks?",
       "options": [
         "TikTok therapist",
         "Fortnite philosopher",
@@ -667,16 +658,43 @@
       ]
     },
     {
+      "question": "Which\u2019s yo favorite way to flex?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
       "question": "Why\u2019s yo favorite way to say hello?",
       "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
+        "Skibidi yes",
+        "NPC moment",
+        "Gyatt detected",
+        "Sigma alert"
       ]
     },
     {
       "question": "How do you do when someone says 'You have no rizz'?",
+      "options": [
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite way to say hello?",
+      "options": [
+        "Skibidi yes",
+        "NPC moment",
+        "Gyatt detected",
+        "Sigma alert"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite type of chaos?",
       "options": [
         "I rizz in silence",
         "My rizz is loud",
@@ -685,16 +703,7 @@
       ]
     },
     {
-      "question": "How\u2019s yo favorite way to say hello?",
-      "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite type of chaos?",
+      "question": "Which would you do if you woke up as a Skibidi Toilet?",
       "options": [
         "Respect the drip",
         "Laugh and cry",
@@ -703,30 +712,21 @@
       ]
     },
     {
-      "question": "Which would you do if you woke up as a Skibidi Toilet?",
-      "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
-      ]
-    },
-    {
       "question": "Which\u2019s yo favorite insult?",
       "options": [
-        "Scroll fast",
-        "Screenshot and roast",
-        "Comment 'L'",
-        "Duet with cringe"
+        "Respect the drip",
+        "Laugh and cry",
+        "Become the meme",
+        "Screenshot for later"
       ]
     },
     {
       "question": "Which\u2019s yo reaction to being called 'cringe'?",
       "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
       ]
     },
     {
@@ -741,28 +741,28 @@
     {
       "question": "How\u2019s yo favorite way to flex?",
       "options": [
-        "I say 'yo'",
-        "I Skibidi bop",
-        "I NPC wave",
-        "I emoji spam"
+        "Skibidi yes",
+        "NPC moment",
+        "Gyatt detected",
+        "Sigma alert"
       ]
     },
     {
       "question": "Which\u2019s yo reaction to cringe TikToks?",
       "options": [
-        "I rizz in silence",
-        "My rizz is loud",
-        "No rizz but vibes",
-        "Certified Rizzologist"
+        "Rizz up a ghost",
+        "Fight a duck",
+        "Join the NPC army",
+        "Speak in emojis"
       ]
     },
     {
       "question": "How much rizz do you think you have?",
       "options": [
-        "I eat air",
-        "I snack on chaos",
-        "I drink WiFi",
-        "I munch on memes"
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
       ]
     },
     {
@@ -777,23 +777,41 @@
     {
       "question": "Why\u2019s yo favorite sound effect?",
       "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
       ]
     },
     {
       "question": "How\u2019s yo favorite way to say hello?",
       "options": [
-        "Capybara energy",
-        "Llama drama",
-        "Pigeon vibes",
-        "Goose rage"
+        "Become a capybara",
+        "Talk to pigeons",
+        "Invent Skibidi chips",
+        "Sleep professionally"
       ]
     },
     {
       "question": "Why\u2019s yo favorite type of content?",
+      "options": [
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite emoji combo?",
+      "options": [
+        "Rizz up a ghost",
+        "Fight a duck",
+        "Join the NPC army",
+        "Speak in emojis"
+      ]
+    },
+    {
+      "question": "How much rizz do you think you have?",
       "options": [
         "I say 'yo'",
         "I Skibidi bop",
@@ -802,43 +820,16 @@
       ]
     },
     {
-      "question": "How\u2019s yo favorite emoji combo?",
-      "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
-      ]
-    },
-    {
-      "question": "How much rizz do you think you have?",
-      "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
-      ]
-    },
-    {
       "question": "Are you a Valorant fan?",
       "options": [
-        "Join the cameramen",
-        "Flush myself",
-        "Start a TikTok",
-        "Accept destiny"
+        "Eat 10 nuggets",
+        "Flex my rizz",
+        "Post a meme",
+        "Win a dance-off"
       ]
     },
     {
       "question": "Which do you do when someone says 'You have no rizz'?",
-      "options": [
-        "Dance like a potato",
-        "Skibidi shuffle",
-        "Gyatt stomp",
-        "NPC sway"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo reaction when someone says 'Sigma grindset'?",
       "options": [
         "Skibidi yes",
         "NPC moment",
@@ -847,39 +838,48 @@
       ]
     },
     {
+      "question": "Which\u2019s yo reaction when someone says 'Sigma grindset'?",
+      "options": [
+        "I eat air",
+        "I snack on chaos",
+        "I drink WiFi",
+        "I munch on memes"
+      ]
+    },
+    {
       "question": "How\u2019s yo favorite insult?",
-      "options": [
-        "I eat air",
-        "I snack on chaos",
-        "I drink WiFi",
-        "I munch on memes"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite type of content?",
-      "options": [
-        "I eat air",
-        "I snack on chaos",
-        "I drink WiFi",
-        "I munch on memes"
-      ]
-    },
-    {
-      "question": "How\u2019s yo favorite snack during a gaming session?",
-      "options": [
-        "Respect the drip",
-        "Laugh and cry",
-        "Become the meme",
-        "Screenshot for later"
-      ]
-    },
-    {
-      "question": "Which\u2019s yo favorite sound effect?",
       "options": [
         "Scroll fast",
         "Screenshot and roast",
         "Comment 'L'",
         "Duet with cringe"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite type of content?",
+      "options": [
+        "Skibidi yes",
+        "NPC moment",
+        "Gyatt detected",
+        "Sigma alert"
+      ]
+    },
+    {
+      "question": "How\u2019s yo favorite snack during a gaming session?",
+      "options": [
+        "I say 'yo'",
+        "I Skibidi bop",
+        "I NPC wave",
+        "I emoji spam"
+      ]
+    },
+    {
+      "question": "Which\u2019s yo favorite sound effect?",
+      "options": [
+        "Dance like a potato",
+        "Skibidi shuffle",
+        "Gyatt stomp",
+        "NPC sway"
       ]
     },
     {
