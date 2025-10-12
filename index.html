@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fortune-Teller</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding: 20px;
+    }
+    .hidden { display: none; }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+    .question-box {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🔮 Welcome to Fortune-Teller 🔮</h1>
+
+  <div id="user-form">
+    <p>Enter your nickname:</p>
+    <input type="text" id="nickname" required><br><br>
+
+    <p>Select your gender:</p>
+    <select id="gender">
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Other">Other</option>
+    </select><br><br>
+
+    <p>Enter your age:</p>
+    <input type="number" id="age" min="1" required><br><br>
+
+    <button onclick="startQuiz()">Start</button>
+  </div>
+
+  <div id="quiz" class="hidden">
+    <div id="question-box" class="question-box"></div>
+    <button onclick="nextQuestion()">Next</button>
+  </div>
+
+  <div id="result" class="hidden">
+    <h2>Your Fortune:</h2>
+    <p id="fortune-text"></p>
+    <p>Contact me on insta and give me feedback on this project of mine. Thank you for coming to my website. If you want to change your future, just press the try again button.</p>
+    <button onclick="location.reload()">Try Again</button>
+  </div>
+
+  <script>
+    let questions = [];
+    let fortunes = [];
+    let selectedQuestions = [];
+    let currentQuestion = 0;
+
+    async function loadData() {
+      const response = await fetch('fortune_teller_data.json');
+      const data = await response.json();
+      questions = data.questions;
+      fortunes = data.fortunes;
+    }
+
+    function startQuiz() {
+      const nickname = document.getElementById('nickname').value;
+      const age = document.getElementById('age').value;
+      if (!nickname || !age) {
+        alert("Please fill in all fields.");
+        return;
+      }
+
+      selectedQuestions = questions.sort(() => 0.5 - Math.random()).slice(0, 10);
+      document.getElementById('user-form').classList.add('hidden');
+      document.getElementById('quiz').classList.remove('hidden');
+      showQuestion();
+    }
+
+    function showQuestion() {
+      const q = selectedQuestions[currentQuestion];
+      const box = document.getElementById('question-box');
+      box.innerHTML = `<h3>Question ${currentQuestion + 1}:</h3><p>${q.question}</p>`;
+      q.options.forEach((opt, i) => {
+        box.innerHTML += `<label><input type="radio" name="answer" value="${opt}"> ${opt}</label><br>`;
+      });
+    }
+
+    function nextQuestion() {
+      const selected = document.querySelector('input[name="answer"]:checked');
+      if (!selected) {
+        alert("Please select an answer.");
+        return;
+      }
+
+      currentQuestion++;
+      if (currentQuestion < 10) {
+        showQuestion();
+      } else {
+        showFortune();
+      }
+    }
+
+    function showFortune() {
+      document.getElementById('quiz').classList.add('hidden');
+      document.getElementById('result').classList.remove('hidden');
+      const fortune = fortunes[Math.floor(Math.random() * fortunes.length)];
+      document.getElementById('fortune-text').innerText = fortune;
+    }
+
+    loadData();
+  </script>
+
+</body>
+</html>
